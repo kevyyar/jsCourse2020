@@ -46,3 +46,7 @@ console.log(fourLeggedAnimals);
 let copy = animals.slice();
 console.log(copy);
 console.log(animals);
+
+// Sort Arrays
+let people = ["Joe", "Bryan", "Kev", "Aaron", "Zulu"];
+console.log(people.sort());
